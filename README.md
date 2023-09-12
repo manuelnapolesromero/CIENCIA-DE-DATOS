@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @manuelnapolesromero
-- 👀 I’m interested in: Ciencia de Datos
+- 👋 Hi, I’m Manuel Napoles Romero
+- 👀 I’m interested in: Ciencia de Datos para Negocios
 - 🌱 I’m currently learning: Machine Learning
 - 💞️ I’m looking to collaborate on: 
 - 📫 How to reach me manuelnapolesromero@gmail.com
